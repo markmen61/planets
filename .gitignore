@@ -1,0 +1,6 @@
+# Excluse data files
+*.dat
+# Exclude results from data processing
+results/
+# Exclude temporary editing files
+*.swp
